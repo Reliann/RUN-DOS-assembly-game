@@ -8,7 +8,7 @@
 ;rrr	 rrr	uuuuuuuuuuu		nnn		nnnn	!!!
 ;rrr	  rrr	uuuuuuuuuuu		nnn		 nnn	!!!
 
-; by: orel levi
+
 ; procedures at: proc.asm
 
 IDEAL
